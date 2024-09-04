@@ -11,6 +11,9 @@
 .logo-dot{
     color: #A3DC00;
     }
+    section{
+        display: inline-block;
+        }   
 .Main-title{
      font-family: 'Ramaraja', serif;
      max-width: 495px;
@@ -54,6 +57,3 @@
     margin-top: 50px;
     border: none;
     }
-section{
-    display: inline-block;
-    }   
